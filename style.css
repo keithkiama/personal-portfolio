@@ -9,12 +9,6 @@ html{
     scroll-behavior: smooth;
 }
 
-.addresslogo{
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-}
-
 body{
     background: #080808;
     color: white;
